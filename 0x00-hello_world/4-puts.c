@@ -2,9 +2,10 @@
 
 /**
  * main - entry point
- * print a string, followed by new line
- * return: 0
+ * Description: print a string, followed by new line
+ * Return: 0
  */
+ 
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
